@@ -1,4 +1,4 @@
-# Cursos da SECTI em Campina Grande PB
+# SECTI - Campina Grande PB
 Secretaria de Ciência,Tecnologia e Inovação
 
 # Concluídos em Junho de 2024
